@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(152, 210, 212);
+}
+
+div {
+    position: right;
+}
+
+header {
+    text-align: center;
+}
+
+table {
+    text-align: center;
+    margin: 0px auto;
+    width: 50%;
+}
+
+#imagenes {
+    display: flex;
+    margin: 20px;
+    justify-content: center;
+}
